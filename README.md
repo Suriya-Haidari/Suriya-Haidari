@@ -61,9 +61,23 @@ GitHub activity
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Suriya-Haidari&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&rank_icon=github" alt="Suriya's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suriya-Haidari&layout=compact&langs_count=6&theme=transparent&hide_border=true" alt="Suriya's most used languages" />
-  <br />
-  <img height="170" src="https://streak-stats.demolab.com/?user=Suriya-Haidari&theme=transparent&hide_border=true&card_height=170" alt="Suriya's GitHub contribution streak" />
+<img
+ width="48%"
+ src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suriya-Haidari&theme=transparent&animation=rise&duration=2.4"
+ alt="Suriya's GitHub statistics"
+/><img
+ width="48%"
+ src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Suriya-Haidari&theme=transparent&animation=draw&duration=2.4"
+ alt="Suriya's most-used languages"
+/><br /><img height="170" src="https://streak-stats.demolab.com/?user=Suriya-Haidari&theme=transparent&hide_border=true&card_height=170" alt="Suriya's GitHub contribution streak" />
+
+</div>
+
+<div align="center">
+
+<img
+ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=1000&color=0E75B6&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Build.+Learn.+Improve.+Repeat."
+ alt="Build. Learn. Improve. Repeat."
+/>
 
 </div>

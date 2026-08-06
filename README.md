@@ -9,7 +9,7 @@
 
   <p>Frontend precision · Backend reliability · Practical solutions</p>
 
-  <a href="https://www.linkedin.com/in/suriya-haidari-903a6727b/">
+  <a href="https://linkedin.com/in/suriya-haidari">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/Suriya-Haidari">
@@ -61,13 +61,15 @@ GitHub activity
 
 <div align="center">
 
+  <!-- Generated locally by .github/workflows/profile-cards.yml -->
+
 <img
- width="48%"
- src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suriya-Haidari&theme=transparent&animation=rise&duration=2.4"
+ height="165"
+ src="https://raw.githubusercontent.com/Suriya-Haidari/Suriya-Haidari/main/profile/stats.svg"
  alt="Suriya's GitHub statistics"
 /><img
- width="48%"
- src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Suriya-Haidari&theme=transparent&animation=draw&duration=2.4"
+ height="165"
+ src="https://raw.githubusercontent.com/Suriya-Haidari/Suriya-Haidari/main/profile/top-langs.svg"
  alt="Suriya's most-used languages"
 /><br /><img height="170" src="https://streak-stats.demolab.com/?user=Suriya-Haidari&theme=transparent&hide_border=true&card_height=170" alt="Suriya's GitHub contribution streak" />
 

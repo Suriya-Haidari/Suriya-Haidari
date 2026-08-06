@@ -9,7 +9,7 @@
 
   <p>Frontend precision · Backend reliability · Practical solutions</p>
 
-  <a href="https://linkedin.com/in/suriya-haidari">
+  <a href="https://www.linkedin.com/in/suriya-haidari-903a6727b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/Suriya-Haidari">

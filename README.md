@@ -15,8 +15,8 @@
   <a href="https://x.com/Suriya-Haidari">
     <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="mailto:soriahaidary17@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=soriahaidary17@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Suriya-Haidari&label=Profile+views&color=0E75B6&style=flat-square" alt="Profile views" />
 

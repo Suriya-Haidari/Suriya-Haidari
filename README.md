@@ -1,18 +1,69 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>I’m a **Full-Stack Developer** with nearly **two years of professional experience**, building reliable and user-focused applications from frontend to backend.<br><br>💼 Currently working remotely as a Full-Stack Developer<br>🌱 Continuously learning and improving my technical skills<br>🧩 Interested in clean code, scalable systems, and practical solutions<br>🤝 Open to collaborating and contributing to meaningful projects<br>💬 Always happy to connect, exchange knowledge, and learn from other developers<br><br>I believe the best way to grow as a developer is by building, collaborating, and continuously learning.<br>
+<div align="center">
 
+  <a href="https://github.com/Suriya-Haidari">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=900&color=0E75B6&center=true&vCenter=true&repeat=true&width=650&height=60&lines=Hi%2C+I%27m+Suriya+Haidari;Full-Stack+Developer;Building+reliable+web+applications"
+      alt="Suriya Haidari — Full-Stack Developer"
+    />
+  </a>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suriya-haidari) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Suriya-Haidari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soriahaidary17@gmail.com) 
+  <p>Frontend precision · Backend reliability · Practical solutions</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Suriya-Haidari&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Suriya-Haidari&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Suriya-Haidari&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+  <a href="https://linkedin.com/in/suriya-haidari">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Suriya-Haidari">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:soriahaidary17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Suriya-Haidari&label=Profile+views&color=0E75B6&style=flat-square" alt="Profile views" />
 
----
-[![](https://komarev.com/ghpvc/?username=Suriya-Haidari&icon=2&color=10)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+About me
+
+I'm a Full-Stack Developer with nearly two years of professional experience, building reliable and user-focused applications across the frontend and backend.
+
+💼 Working remotely as a Full-Stack Developer
+
+🧩 Interested in clean code, scalable systems, and practical solutions
+
+🌱 Continuously learning and strengthening my technical skills
+
+🤝 Open to collaborating on meaningful projects
+
+Tech stack
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black" alt="EJS" />
+  <br />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+
+</div>
+
+GitHub activity
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Suriya-Haidari&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&rank_icon=github" alt="Suriya's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suriya-Haidari&layout=compact&langs_count=6&theme=transparent&hide_border=true" alt="Suriya's most used languages" />
+  <br />
+  <img height="170" src="https://streak-stats.demolab.com/?user=Suriya-Haidari&theme=transparent&hide_border=true&card_height=170" alt="Suriya's GitHub contribution streak" />
+
+</div>

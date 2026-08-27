@@ -1,6 +1,6 @@
 <div align="center">
 
-  <a href="https://github.com/Suriya-Haidari">
+  <a href="https://suriya-dev.vercel.app/">
     <img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=900&color=0E75B6&center=true&vCenter=true&repeat=true&width=650&height=60&lines=Hi%2C+I%27m+Suriya+Haidari;Full-Stack+Developer;Building+reliable+web+applications"
       alt="Suriya Haidari — Full-Stack Developer"
@@ -9,32 +9,46 @@
 
   <p>Frontend precision · Backend reliability · Practical solutions</p>
 
+  <a href="https://suriya-dev.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/Portfolio-0E75B6?style=flat-square&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
   <a href="https://linkedin.com/in/suriya-haidari">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
   <a href="https://x.com/Suriya-Haidari">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+    <img
+      src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"
+      alt="X"
+    />
   </a>
-<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=soriahaidary17@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:soriahaidary17@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Suriya-Haidari&label=Profile+views&color=0E75B6&style=flat-square" alt="Profile views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=Suriya-Haidari&label=Profile+views&color=0E75B6&style=flat-square"
+    alt="Profile views"
+  />
 
 </div>
 
-About me
+## About me
 
-I'm a Full-Stack Developer with nearly two years of professional experience, building reliable and user-focused applications across the frontend and backend.
+I'm a Full-Stack Developer with nearly two years of professional experience building reliable and user-focused applications across the frontend and backend.
 
-💼 Working remotely as a Full-Stack Developer
+I currently work remotely as a Full-Stack Developer, creating practical solutions with clean, scalable, and maintainable code. I enjoy learning new technologies, strengthening my technical skills, and collaborating on meaningful projects.
 
-🧩 Interested in clean code, scalable systems, and practical solutions
+You can explore my projects and experience on my [portfolio website](https://suriya-dev.vercel.app/).
 
-🌱 Continuously learning and strengthening my technical skills
-
-🤝 Open to collaborating on meaningful projects
-
-Tech stack
+## Tech stack
 
 <div align="center">
 
@@ -46,7 +60,9 @@ Tech stack
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black" alt="EJS" />
+
   <br />
+
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
@@ -57,29 +73,38 @@ Tech stack
 
 </div>
 
-GitHub activity
+## GitHub activity
 
 <div align="center">
 
   <!-- Generated locally by .github/workflows/profile-cards.yml -->
 
-<img
- height="165"
- src="https://raw.githubusercontent.com/Suriya-Haidari/Suriya-Haidari/main/profile/stats.svg"
- alt="Suriya's GitHub statistics"
-/><img
- height="165"
- src="https://raw.githubusercontent.com/Suriya-Haidari/Suriya-Haidari/main/profile/top-langs.svg"
- alt="Suriya's most-used languages"
-/><br /><img height="170" src="https://streak-stats.demolab.com/?user=Suriya-Haidari&theme=transparent&hide_border=true&card_height=170" alt="Suriya's GitHub contribution streak" />
+  <img
+    height="165"
+    src="https://raw.githubusercontent.com/Suriya-Haidari/Suriya-Haidari/main/profile/stats.svg"
+    alt="Suriya's GitHub statistics"
+  />
+  <img
+    height="165"
+    src="https://raw.githubusercontent.com/Suriya-Haidari/Suriya-Haidari/main/profile/top-langs.svg"
+    alt="Suriya's most-used languages"
+  />
+
+  <br />
+
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com/?user=Suriya-Haidari&theme=transparent&hide_border=true&card_height=170"
+    alt="Suriya's GitHub contribution streak"
+  />
 
 </div>
 
 <div align="center">
 
-<img
- src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=1000&color=0E75B6&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Build.+Learn.+Improve.+Repeat."
- alt="Build. Learn. Improve. Repeat."
-/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=1000&color=0E75B6&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Build.+Learn.+Improve.+Repeat."
+    alt="Build. Learn. Improve. Repeat."
+  />
 
 </div>

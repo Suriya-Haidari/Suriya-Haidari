@@ -15,7 +15,7 @@
       alt="Portfolio"
     />
   </a>
-  <a href="https://linkedin.com/in/suriya-haidari">
+  <a href="https://www.linkedin.com/in/suriyahaidari">
     <img
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
       alt="LinkedIn"
